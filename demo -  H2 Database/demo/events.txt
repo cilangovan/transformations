@@ -1,0 +1,63 @@
+dat;summary;location;desc
+1812-06-18;War of 1812 Begins;;On June 18, 1812, America declared war on Britain.
+1814-08-24;British troops enter Washington, D.C.;Washington, D.C.;On August 24, 1814, British troops under General Robert Ross enter Washington, D.C. to destroy many government buildings, including the White House, the Treasury building and the Library of Congress.
+1814-09-12;Battle of Baltimore;Baltimore, Maryland;"September 12, 1814.  It was during this battle that Francis Scott Key wrote the words that would become the ""Star-Spangled Banner""."
+1814-12-24;The Treaty of Ghent signed;;Treaty was signed on December 24, 1814 to end the War of 1812 between the U.S.A. and the U.K.
+1815-01-08;Battle of New Orleans;New Orleans, Louisiana;January 8, 1815
+1859-10-16;John Brown's Raid on Harpers Ferry;Harpers Ferry, West Virginia;October 16, 1859, Abolitionist John Brown led 22 men on the federal armory at Harpers Ferry.  He was captured and later hanged. 
+1860-12-20;South Carolina secedes from the Union;South Carolina;On December 20, 1860, South Carolina was the first of eleven states to secede from the Union
+1861-01-09;Mississippi secedes from the Union;Mississippi;On January 9, 1861, Mississippi was the second of eleven states to secede from the Union
+1861-01-10;Florida secedes from the Union;Florida;On January 10, 1861, Florida was the third of eleven states to secede from the Union.
+1861-01-11;Alabama secedes from the Union;Alabama;On January 11, 1861, Alabama is the fourth of eleven states to secede from the Union.
+1861-01-19;Georgia secedes from the Union;Georgia;On January 19, 1861, Georgia is the fifth of eleven states to secede from the Union.
+1861-01-26;Louisiana secedes from the Union;Louisiana;On January 26, 1861, Louisiana is the sixth of eleven states to secede from the Union
+1861-02-01;Texas secedes from the Union;Texas;On February 1, 1861, Texas is the seventh of eleven states to secede from the Union.
+1861-02-18;Jefferson Davis becomes President of the Confederate States;;February 18, 1861
+1861-04-12;Battle of Fort Sumter;Charleston, South Carolina;The Battle of Fort Sumter on April 12, 1861 was the first battle of the Civil War.
+1861-04-17;Virginia secedes from the Union;Virginia;On April 17, 1861, Virginia is the eighth of eleven states to secede from the Union.
+1861-05-06;Arkansas secedes from the Union;Arkansas;On May 6, 1861, Arkansas is the ninth of eleven states to secede from the Union.
+1861-05-20;North Carolina secedes from the Union;North Carolina;On May 20, 1861, North Carolina is the tenth of eleven states to secede from the Union.
+1861-06-08;Tennessee secedes from the Union;Tennessee;On June 8, 1861, Tennessee is the eleventh of eleven states to secede from the Union.
+1861-07-21;First Battle of Bull Run/Manassas;Manassas, Virginia;July 21, 1861
+1862-09-17;Battle of Antietam/Sharpsburg;Sharpsburg, Maryland;September 17, 1862 - The bloodiest single day battle in American history with about 23,000 casualties.
+1862-12-13;Battle of Fredricksburg;Fredricksburg, Virginia;December 13, 1862 
+1863-01-01;Emancipation Proclamation;Washington, D.C.;On January 1, 1863 Abraham Lincoln issues the Emancipation Proclamation, freeing slaves in Confederate-held territory.
+1863-11-19;Gettysburg Address;Gettysburg, Pennsylvania;Delivered on November 19, 1863 by Abraham Lincoln.
+1864-08-05;Battle of Mobile Bay;Mobile Bay, Alabama;August 5, 1864
+1864-09-02;Battle of Atlanta;Atlanta, Georgia;September 2, 1864 
+1865-04-09;Lee surrenders army to Grant;Appomattox, Virginia;April 9, 1865
+1865-04-14;Abraham Lincoln shot at Ford's Theatre;Washington, D.C.;Abraham Lincoln was shot on April 14, 1865 and died the following day.
+1865-04-26;Johnston surrenders troops to Sherman;Durham, North Carolina;April 26, 1865
+1865-05-10;Jefferson Davis is captured;Irwinville, Georgia;May 10, 1865
+1865-12-06;Thirteenth Amendment ratified;;On December 6, 1865, the Thirteenth Admendment to the Constitution was ratified, officially abolishing slavery.
+1881-09-19;James Garfield shot;;President James Garfield was shot on July 2, 1881, just 4 months after taking office.  He died on September 19, 1881
+1901-09-06;William McKinley shot;Buffalo, New York;President McKinley was shot on September 6, 1901 in Buffalo New York while attending the Pan-American Exposition, and died 8 days later on September 14.  Upon McKinley's death, Vice President Theodore Roosevelt assumed the Presidency.
+1903-12-17;Wright Brothers fly first airplane;Kitty Hawk, North Carolina;December 17, 1903
+1927-05-21;Lindbergh arrives in Paris after first solo nonstop transatlantic flight;Paris France;"Lindbergh departed from Roosevelt Field in New York on May 20, 1927 in his plane, ""Spirit of St. Louis"", arriving in Paris after a 33 hour flight on May 21, 1927."
+1939-01-05;Amelia Earhart and plane missing over central Pacific Ocean near Howland Island;Howland Island;Missing July 2, 1937, declared dead on January 5, 1939
+1941-12-07;Pearl Harbor Attacked by Japanese;Pearl Harbor, Hawaii;December 7, 1941
+1944-06-06;Invasion of Normandy;Normandy, France;June 6, 1944
+1945-05-07;Germany surrenders, ending the war in Europe;Reims, France;May 7, 1945
+1945-08-06;Atomic Bombing of Hiroshima, Japan;Hiroshima, Japan;August 6, 1945, 140,000 people, mostly civilians, were killed in the bombing in Hiroshima. Approximately 70,000 were killed on the day of the bombing and the others by the end of 1945 due to burns, radiation and disease caused by the bombing.
+1945-08-09;Atomic Bombing of Nagasaki, Japan;Nagasaki, Japan;August 9, 1945, 80,000 people, mostly civilians, were killed in the bombing in Nagasaki. Approximately 40,000 were killed on the day of the bombing and the others by the end of 1945 due to burns, radiation and disease caused by the bombing.
+1945-08-15;Japan announces its surrender to the Allied Forces;;August 15, 1945
+1945-09-02;Japanese sign Instrument of Surrender;Tokyo Bay, Japan;Signed September 2, 1945, The signing of this document offically ended the Pacific War of World War II.
+1947-10-14;Man flies faster than the speed of sound;;October 14, 1947, Chuck Yeager becomes the first person to fly faster than the speed of sound.
+1954-05-17;Brown vs. Board of Education;Washington, D.C.;May 17, 1954, The Supreme Court rules the segregation in public schools is unconstitutional, and orders segregation to be phased out. 
+1955-08-28;14 year old Emett Till murdered, sparking Civil Rights Movement;Money, Mississippi;14 year old Emmett was murdered on August 28, 1955 in Money, Mississippi, inspiring the Civil Rights Movement.
+1955-12-01;Rosa Parks refuses to give up her bus seat to a white passenger;Montgomery, Alabama;On December 1, 1955 in Montgomery, Alabama, Rosa Parks refused to give up her bus seat to a white passenger, sparking the Montgomery Bus Boycott.
+1958-07-29;Eisenhower signs law creating NASA;;July 29, 1958, President Eisenhower signs H.R. 1257, 5, creating the National Aeronautics and Space Administration.
+1963-06-11;End of Segregation at University of Alabama;Tuscaloosa, Alabama;June 11, 1963, Despite the efforts by Governor George Wallace to stand in the doorway at Fostor Auditorium, Wallace steps aside to federal marshals and the Alabama National Guard to allow 2 black students to register at the University of Alabama.  This event ends segregation at the school.
+1963-08-28;March on Washington for Jobs and Freedom;Washington, D.C.;"On August 28, 1963, this political rally took place in Washington, D.C., where Dr. Martin Luther King, Jr. delivered his ""I Have a Dream"" speech in front of the Lincoln Memorial."
+1963-09-15;16th Street Baptist Church bombing;Birmingham, Alabama;September 15, 1963 - The bombing of this African-American church resulted in the deaths of four girls and increased support for the civil rights movement.
+1963-11-22;John F. Kennedy assassinated;Dallas, Texas;President Kennedy was assassinated on November 22, 1963 while on a trip to Dallas, Texas.
+1964-01-23;The 24th Amendment is ratified, abolishes poll tax;;Ratified on January 23, 1964, this amendment abolishes the poll tax, which originally had been instituted in 11 southern states after Reconstruction to make it difficult for poor blacks to vote.
+1964-07-02;President Johnson signs the Civil Rights Act;;Signed by President Johnson on July 2, 1964, the Civil Rights Act prohibits discrimination of all kinds based on race, color, religion, or national origin.
+1967-01-27;Three astronauts killed from flash fire while onboard command module;Cape Canaveral, Florida;January 27, 1967, Three NASA astronauts were killed from a flash fire while onboard the command module during a launch pad test. The tragedy brought about changes in the Apollo program to improve safety. The AS-204 mission was redesignated Apollo I in honor of the crew.
+1968-04-04;Martin Luther King Jr. Assassination;Memphis, Tennessee;April 4, 1968, Martin Luther King Jr. was assassinated while standing outside his hotel room on the second floor balcony. He was 39 years old. His assassination sparked riots in cities nationwide, prompting several cities to impose curfews.
+1969-07-21;Neil Armstrong walks on the moon;;Neil Armstrong stepped onto the moon surface on July 21, 1969, becoming the first person to walk on the moon.
+1974-08-09;Richard Nixon resigns as President;Washington, D.C.;August 9, 1974, Nixon resigns amid Watergate scandal, and Vice President Gerald Ford becomes President.
+1974-09-08;Gerald Ford pardons Richard Nixon;Washington, D.C.;September 8, 1974  The pardon frees Richard Nixon of possible criminal prosecution from Watergate.
+1986-01-28;Space Shuttle Challenger explodes 73 seconds after launch;Cape Canaveral, Florida;January 28, 1986, Seven crew members died on what would have been Challenger's 10th mission into space.
+2003-02-01;Space Shuttle Columbia disintegrates during re-entry;Texas;February 1, 2003, All seven crewmen perished after Columbia disintegrates during re-entry over Texas.
+2005-06-21;The bodies of three civil-rights workers are found in Mississippi;Nashoba County, Mississippi;June 21, 1964, The three civil-rights workers, 2 white and 1 black, were working to register black voters in Mississippi, and had gone to investigate the burning of a black church. They were arrested by the police on speeding charges, incarcerated, then released into the hands of the Ku Klux Klan, who murdered them.  The ringleader of the crime was convicted on June 21, 2005, exactly 41 years after the crime.
